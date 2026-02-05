@@ -169,4 +169,4 @@ This engagement will be considered successful if leadership can:
 ### 🧠 Why This Case Matters
 CareHealthPharmacy operates in a highly margin-sensitive and inventory-critical environment. Without reliable data, even strong sales performance can conceal inefficiencies, losses, and operational risk.
 
-This case study represents a realistic business problem requiring **senior-level analytical thinking**, **validation rigor**, and **stakeholder-focused insight**—competencies essential for roles in data analytics, business intelligence, and operational decision support.
+This case study represents a realistic business problem requiring **senior-level analytical thinking**, **validation rigor**, and **stakeholder-focused insight** competencies essential for roles in data analytics, business intelligence, and operational decision support.
